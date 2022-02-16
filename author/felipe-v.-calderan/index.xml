@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felipe V. Calderan | CIDAG - Computational Intelligence and Data Analysis Group</title>
+    <link>cidag.github.io/author/felipe-v.-calderan/</link>
+      <atom:link href="cidag.github.io/author/felipe-v.-calderan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Felipe V. Calderan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/cidag.github.io/author/felipe-v.-calderan/Avatar_hu9d632febaad63524eae4b6d5c498aa4a_1072090_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Felipe V. Calderan</title>
+      <link>cidag.github.io/author/felipe-v.-calderan/</link>
+    </image>
+    
+  </channel>
+</rss>

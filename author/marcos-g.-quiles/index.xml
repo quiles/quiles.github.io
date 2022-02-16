@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcos G. Quiles | CIDAG - Computational Intelligence and Data Analysis Group</title>
+    <link>cidag.github.io/author/marcos-g.-quiles/</link>
+      <atom:link href="cidag.github.io/author/marcos-g.-quiles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcos G. Quiles</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/cidag.github.io/author/marcos-g.-quiles/Avatar_hu11fc47e3b7d165773ba5bdc0b101e758_1346865_270x270_fill_lanczos_center_3.png</url>
+      <title>Marcos G. Quiles</title>
+      <link>cidag.github.io/author/marcos-g.-quiles/</link>
+    </image>
+    
+    <item>
+      <title>Systematic Investigation of Error Distribution in Machine Learning Algorithms Applied to the Quantum-Chemistry QM9 Data Set Using the Bias and Variance Decomposition</title>
+      <link>cidag.github.io/publication/j_2021_apqsp/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>cidag.github.io/publication/j_2021_apqsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Wild Sugarcane and Sorghum Kinomes: Insights Into Expansion, Diversification, and Expression Patterns</title>
+      <link>cidag.github.io/publication/j_2021_aono/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>cidag.github.io/publication/j_2021_aono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological indexes and community structure for urban mobility networks: Variations in a business day</title>
+      <link>cidag.github.io/publication/j_2021_ltqlsm/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>cidag.github.io/publication/j_2021_ltqlsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Force-directed algorithms as a tool to support community detection</title>
+      <link>cidag.github.io/publication/j_2021_gsmq/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>cidag.github.io/publication/j_2021_gsmq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Decomposition to Access the Stability Changes Induced by CO Adsorption on Transition-Metal 13-Atom Clusters</title>
+      <link>cidag.github.io/publication/j_2021_bsqps/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>cidag.github.io/publication/j_2021_bsqps/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+ --&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Correlation-Based Framework for Extraction of Insights from Quantum Chemistry Databases: Applications for Nanoclusters</title>
+      <link>cidag.github.io/publication/j_2021_mqps/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>cidag.github.io/publication/j_2021_mqps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 fake news diffusion across Latin America</title>
+      <link>cidag.github.io/publication/j_2021_cssq/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>cidag.github.io/publication/j_2021_cssq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake news agenda in the era of COVID-19: Identifying trends through fact-checking content</title>
+      <link>cidag.github.io/publication/j_2021_csq/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>cidag.github.io/publication/j_2021_csq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

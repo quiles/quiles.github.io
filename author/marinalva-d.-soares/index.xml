@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marinalva D. Soares | CIDAG - Computational Intelligence and Data Analysis Group</title>
+    <link>cidag.github.io/author/marinalva-d.-soares/</link>
+      <atom:link href="cidag.github.io/author/marinalva-d.-soares/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marinalva D. Soares</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/cidag.github.io/media/icon_hu9110cd2275f210ce4882c68bf2adb67c_61598_512x512_fill_lanczos_center_3.png</url>
+      <title>Marinalva D. Soares</title>
+      <link>cidag.github.io/author/marinalva-d.-soares/</link>
+    </image>
+    
+    <item>
+      <title>Energy Decomposition to Access the Stability Changes Induced by CO Adsorption on Transition-Metal 13-Atom Clusters</title>
+      <link>cidag.github.io/publication/j_2021_bsqps/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>cidag.github.io/publication/j_2021_bsqps/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+ --&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

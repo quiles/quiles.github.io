@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriela Gruszynski Sanseverino | CIDAG - Computational Intelligence and Data Analysis Group</title>
+    <link>cidag.github.io/author/gabriela-gruszynski-sanseverino/</link>
+      <atom:link href="cidag.github.io/author/gabriela-gruszynski-sanseverino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriela Gruszynski Sanseverino</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/cidag.github.io/media/icon_hu9110cd2275f210ce4882c68bf2adb67c_61598_512x512_fill_lanczos_center_3.png</url>
+      <title>Gabriela Gruszynski Sanseverino</title>
+      <link>cidag.github.io/author/gabriela-gruszynski-sanseverino/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 fake news diffusion across Latin America</title>
+      <link>cidag.github.io/publication/j_2021_cssq/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>cidag.github.io/publication/j_2021_cssq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

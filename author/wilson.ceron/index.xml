@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wilson.ceron | CIDAG - Computational Intelligence and Data Analysis Group</title>
+    <link>cidag.github.io/author/wilson.ceron/</link>
+      <atom:link href="cidag.github.io/author/wilson.ceron/index.xml" rel="self" type="application/rss+xml" />
+    <description>wilson.ceron</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/cidag.github.io/media/icon_hu9110cd2275f210ce4882c68bf2adb67c_61598_512x512_fill_lanczos_center_3.png</url>
+      <title>wilson.ceron</title>
+      <link>cidag.github.io/author/wilson.ceron/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 fake news diffusion across Latin America</title>
+      <link>cidag.github.io/publication/j_2021_cssq/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>cidag.github.io/publication/j_2021_cssq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake news agenda in the era of COVID-19: Identifying trends through fact-checking content</title>
+      <link>cidag.github.io/publication/j_2021_csq/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>cidag.github.io/publication/j_2021_csq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

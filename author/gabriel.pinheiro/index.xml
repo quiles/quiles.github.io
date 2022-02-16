@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gabriel.pinheiro | CIDAG - Computational Intelligence and Data Analysis Group</title>
+    <link>cidag.github.io/author/gabriel.pinheiro/</link>
+      <atom:link href="cidag.github.io/author/gabriel.pinheiro/index.xml" rel="self" type="application/rss+xml" />
+    <description>gabriel.pinheiro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/cidag.github.io/media/icon_hu9110cd2275f210ce4882c68bf2adb67c_61598_512x512_fill_lanczos_center_3.png</url>
+      <title>gabriel.pinheiro</title>
+      <link>cidag.github.io/author/gabriel.pinheiro/</link>
+    </image>
+    
+    <item>
+      <title>Systematic Investigation of Error Distribution in Machine Learning Algorithms Applied to the Quantum-Chemistry QM9 Data Set Using the Bias and Variance Decomposition</title>
+      <link>cidag.github.io/publication/j_2021_apqsp/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>cidag.github.io/publication/j_2021_apqsp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
